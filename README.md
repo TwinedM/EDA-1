@@ -15,3 +15,8 @@ Plotly & Cufflinks: Interactive visualizations, including scatter plots, line ch
 Geographical Plotting (Choropleth Maps): Mapping emergency call data by location to visualize spatial patterns and hotspots.
 
 The analysis highlights key trends like the distribution of call reasons (EMS, Fire, Traffic), peak call times, seasonal variations, and geographic insights. This 911 Call Capstone Project showcases the ability to combine multiple visualization libraries to create both static and interactive dashboards, offering actionable insights from raw data.
+
+
+
+
+This has been one of the first steps in my artifical intelligence and machine learning journey
